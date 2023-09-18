@@ -21,6 +21,8 @@
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&&logo=linux&logoColor=black"></a>
     <a href="#"><img alt="CMake" src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="Espressif" src="https://img.shields.io/badge/esp%20idf-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white"></a>
+    <a href="#"><img alt="uVision" src="https://img.shields.io/badge/uVision-black.svg?style=for-the-badge&logo=armkeil&logoColor=white"></a>
     <a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"></a>
     <a href="#"><img alt="KiCad" src="https://img.shields.io/badge/KiCad-2C45C8.svg?style=for-the-badge&logo=kicad&logoColor=white"></a>
 </p>
