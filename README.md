@@ -24,7 +24,7 @@
     <a href="#"><img alt="CMake" src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
     <a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"></a>
-    <a href="#"><img alt="Xcode" src="https://img.shields.io/badge/KiCad-2C45C8.svg?style=for-the-badge&logo=kicad&logoColor=white"></a>
+    <a href="#"><img alt="KiCad" src="https://img.shields.io/badge/KiCad-2C45C8.svg?style=for-the-badge&logo=kicad&logoColor=white"></a>
 </p>
 
 ## Let's Connect 📲
