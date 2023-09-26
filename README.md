@@ -2,7 +2,7 @@
 # Hi there 👋 I'm Vinicius Pimenta
 <img align="right" alt="GIF" height="160px" src="./assets/dev-memoji.png" />
 
-I am an Electrical Engineer with a Master's Degree in Embedded Systems. Currently working as an Embedded Software Developer, and learning iOS/macOS development on the side.
+### I am an Electrical Engineer with a Master's Degree in Embedded Systems. Currently working as an Embedded Software Developer, and learning iOS/macOS development on the side.
 
 ## Programming languages 👨‍💻
 
