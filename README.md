@@ -1,9 +1,8 @@
 
-<h1 align="center">Hi there 👋 I'm Vinicius Pimenta</h1>
+# Hi there 👋 I'm Vinicius Pimenta
 <img align="right" alt="GIF" height="160px" src="./assets/dev-memoji.png" />
-<h3 align="center">I am an Electrical Engineer with a Master's Degree in Embedded Systems. Currently working as an Embedded Software Developer, and learning iOS/macOS development on the side.</h3>
-<hr>
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=vinepb&label=Profile%20views&color=0e75b6&style=plastic" alt="vinepb" /> </p> -->
+
+I am an Electrical Engineer with a Master's Degree in Embedded Systems. Currently working as an Embedded Software Developer, and learning iOS/macOS development on the side.
 
 ## Programming languages 👨‍💻
 
