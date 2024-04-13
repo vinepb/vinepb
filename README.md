@@ -2,9 +2,13 @@
 # Hi there 👋 I'm Vinicius Pimenta
 <img align="right" alt="GIF" height="160px" src="./assets/dev-memoji.png" />
 
-### I am an Electrical Engineer with a Master's Degree in Embedded Systems. Currently working as an Embedded Software Developer, and learning iOS/macOS development on the side.
+## About me 👨‍💻
 
-## Programming languages 👨‍💻
+- I am an Electrical Engineer ([USP](https://www5.usp.br)) with a Master's Degree in Embedded Systems ([UFSC](https://ufsc.br)).
+- Currently working as an Embedded Software Engineer at [GE Vernova](https://www.gevernova.com).
+- Learning iOS/macOS development on the side.
+
+## Programming languages 🚀
 
 <p align="left"> 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -50,7 +54,7 @@
 <hr/>
 
 * Credit: [vinepb](https://github.com/vinepb)
-* Last Edited on: 17/04/2023
+* Last Edited on: 12/04/2024
 
 
 
