@@ -5,7 +5,7 @@
 ## About me 👨‍💻
 
 - I am an Electrical Engineer ([USP](https://www5.usp.br)) with a Master's Degree in Embedded Systems ([UFSC](https://ufsc.br)).
-- Currently working as an Embedded Software Engineer at [GE Vernova](https://www.gevernova.com).
+- Currently working as an Software Engineer at [eero](https://eero.com).
 - Learning iOS/macOS development on the side.
 
 ## Programming languages 🚀
@@ -15,6 +15,7 @@
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
     <img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
+    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge"/>
 </p>
 
  ## Software & Tools 🛠️
