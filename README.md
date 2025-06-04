@@ -5,7 +5,7 @@
 ## About me 👨‍💻
 
 - I am an Electrical Engineer ([USP](https://www5.usp.br)) with a Master's Degree in Embedded Systems ([UFSC](https://ufsc.br)).
-- Currently working as an Software Engineer at [eero](https://eero.com).
+- Currently working as an Software Engineer at [eero](https://eero.com) (part of Amazon).
 - Learning iOS/macOS development on the side.
 
 ## Programming languages 🚀
